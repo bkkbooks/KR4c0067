@@ -1,0 +1,91 @@
+canonical_identifier: bkk:krp/KR4c0067/bkk/v1/markers/35
+seq: 35
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4c0067_SBCK_035-1a01}
+  - {type: variant, offset: 0, length: 42, content: 李衞公集訂正明本錯簡六首据全唐文訂正文集卷十五請賜仲武詔第十葉前三行入覲之初下應接第, WYG: ''}
+  - {type: substitution, offset: 1, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: punctuation, offset: 6, content: (, id: KR4c0067_krp_035-bkkpn1}
+  - {type: punctuation, offset: 18, content: ), id: KR4c0067_krp_035-bkkpn2}
+  - {type: 'kr:newline', offset: 18, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl2}
+  - {type: line-break, offset: 18, content: '', id: KR4c0067_SBCK_035-1a02}
+  - {type: 'kr:newline', offset: 23, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl3}
+  - {type: line-break, offset: 23, content: '', id: KR4c0067_SBCK_035-1a03}
+  - {type: variant, offset: 44, length: 9, content: 葉前一行與鄭注交結, WYG: 軍築杖義城以制大度青溪闗之阻作禦侮城以控榮經犄角勢作柔逺城以阨西山吐蕃復卬崍闗徙巂州治臺登以奪蠻險舊制嵗抄運内粟贍黎巂州起嘉眉道陽山江而達大度乃分餉諸戍常以盛夏土地苦瘴毒輦夫多死徳裕命轉卬雅粟以十月為漕始先夏而}
+  - {type: page-break, offset: 44, content: '', id: KR4c0067_WYG_035-7b, image: WYG1079/WYG1079-0337d.png}
+  - {type: 'kr:newline', offset: 52, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl4}
+  - {type: line-break, offset: 52, content: '', id: KR4c0067_SBCK_035-1a04}
+  - {type: variant, offset: 54, length: 4, content: 末論石雄, WYG: 以佐陽山之運饋者不涉炎月逺民乃安蜀人多鬻女為人妾徳裕為著科約凡十三而上執三年勞下者五嵗及期則歸之父母毀屬下浮屠私廬數千以地予農蜀先主祠旁有猱村其民剔髮若浮屠者畜妻子自如徳裕下令禁止蜀風大變於是二邊寖懼南詔}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl5}
+  - {type: line-break, offset: 55, content: '', id: KR4c0067_SBCK_035-1a05}
+  - {type: variant, offset: 59, length: 1, content: 添, WYG: 還所俘掠四千人吐蕃維州將悉怛謀以城降維距成都四百里因山為固東北由索叢嶺而下二百里地無險走長川不三千里直吐蕃之牙異時戍之以制虜入者也徳裕既得之即發}
+  - {type: page-break, offset: 59, content: '', id: KR4c0067_WYG_035-8a, image: WYG1079/WYG1079-0338a.png}
+  - {type: variant, offset: 61, length: 11, content: 狀第十一葉前一行仍望約, WYG: 以守且}
+  - {type: variant, offset: 73, length: 4, content: 許長行制, WYG: 出師之利僧孺居中沮其功命返悉怛謀於虜以信所盟徳裕終身以為恨㑹監軍使王踐言入朝盛言悉怛謀死拒逺人向化意帝亦悔之即以兵部尚書召俄拜中書門}
+  - {type: variant, offset: 78, length: 20, content: 應接第十一葉後九行度支權給衣粮至末請授王, WYG: 平章事封賛皇縣伯故事丞郎詣}
+  - {type: 'kr:newline', offset: 83, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl6}
+  - {type: line-break, offset: 83, content: '', id: KR4c0067_SBCK_035-1a06}
+  - {type: substitution, offset: 92, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1398}}
+  - {type: 'kr:newline', offset: 95, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl7}
+  - {type: line-break, offset: 95, content: '', id: KR4c0067_SBCK_035-1a07}
+  - {type: variant, offset: 99, length: 64, content: 兼行營諸軍攻討使狀第十一葉後九行尙未安定茂下應接第十葉前三行茂元縱得痊復至末案明本衍一茂字外集卷三食貨論第九葉後三行壽昌習分誅之, WYG: 相須少間乃敢通郎官非公}
+  - {type: substitution, offset: 115, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3273}}
+  - {type: 'kr:newline', offset: 122, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl8}
+  - {type: line-break, offset: 122, content: '', id: KR4c0067_SBCK_035-1a08}
+  - {type: punctuation, offset: 137, content: (, id: KR4c0067_krp_035-bkkpn3}
+  - {type: punctuation, offset: 141, content: /, id: KR4c0067_krp_035-bkkpn4}
+  - {type: punctuation, offset: 144, content: ), id: KR4c0067_krp_035-bkkpn5}
+  - {type: 'kr:newline', offset: 144, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl9}
+  - {type: line-break, offset: 144, content: '', id: KR4c0067_SBCK_035-1a09}
+  - {type: 'kr:newline', offset: 148, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl10}
+  - {type: line-break, offset: 148, content: '', id: KR4c0067_SBCK_035-1a10}
+  - {type: variant, offset: 164, length: 85, content: 弘下應接第十葉後二行羊析秋毫之數至末奇才論第十葉後二行以爲朝恩下應接第十一葉前十行饌因與北門大將軍王駕鶴等結歡至末近倖論第十一葉前十行及開下應接第九葉後三行元致理之要至末, WYG: 不敢謁}
+  - {type: 'kr:newline', offset: 177, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl11}
+  - {type: line-break, offset: 177, content: '', id: KR4c0067_SBCK_035-1a11}
+  - {type: 'kr:newline', offset: 182, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl12}
+  - {type: line-break, offset: 182, content: '', id: KR4c0067_SBCK_035-1a12}
+  - {type: substitution, offset: 192, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 211, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl13}
+  - {type: line-break, offset: 211, content: '', id: KR4c0067_SBCK_035-1a13}
+  - {type: 'kr:newline', offset: 221, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl14}
+  - {type: page-break, offset: 221, content: '', id: KR4c0067_SBCK_035-1b}
+  - {type: 'kr:newline', offset: 221, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl15}
+  - {type: line-break, offset: 221, content: '', id: KR4c0067_SBCK_035-1b01}
+  - {type: substitution, offset: 222, original: 倖, replacement: 幸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0464}}
+  - {type: 'kr:newline', offset: 249, content: '
+
+      ', id: KR4c0067_krp_035-bkkkrnewl16}
+  back: []
+hash: sha256:0141f68b241a5539c26808161b292013c1c3c709112826f761ae80acca1dd3a7

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4c0067/krp/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 李衛公集訂正明本錯簡六首据全唐文訂正文集卷十五請賜仲武詔第十葉前三行入覲之初下應接第十一葉前一行與鄭注交結至末論石雄請添兵狀第十一葉前一行仍望約陳許長行制下應接第十一葉後九行度支權給衣糧至末請授王宰兼行營諸軍攻討使狀第十一葉後九行尚未安定茂下應接第十葉前三行茂元縱得痊復至末案明本衍一茂字外集卷三食貨論第九葉後三行壽昌習分誅之事弘下應接第十葉後二行羊析秋毫之數至末奇才論第十葉後二行以為朝恩下應接第十一葉前十行饌因與北門大將軍王駕鶴等結歡至末近幸論第十一葉前十行及開下應接第九葉後三行元致理之要至末
+  hash: sha256:2a2117159484758330e947468b48ba48023b0af1b4d3d13f508a9d61f4a0579f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0067_SBCK_035-1a}
+metadata:
+  title: 李文饒文集
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-11 08:19:44.938159'
+  source:
+    repository: kanripo
+    path: KR4c0067/KR4c0067_035.txt
+hash: sha256:3782fd4af56e99c1d19fbcaa6454b85c15d1e4b05d388102aa1a2f1d0f613a95

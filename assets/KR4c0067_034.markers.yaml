@@ -1,0 +1,204 @@
+canonical_identifier: bkk:krp/KR4c0067/bkk/v1/markers/34
+seq: 34
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4c0067_SBCK_034-1a01}
+  - {type: variant, offset: 0, length: 60, content: 後序唐有天下幾三百年賢相名儒接武而出固未易歴數也然考其功烈文章光朙偉大卓然足以垂不腐者盖亦無幾自房杜姚宋之後相之有聲者衞, WYG: 李衛}
+  - {type: page-break, offset: 0, content: '', id: KR4c0067_WYG_035-1a, image: WYG1079/WYG1079-0334c.png}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR4c0067_SBCK_034-1a02}
+  - {type: substitution, offset: 21, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4508}}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl3}
+  - {type: line-break, offset: 22, content: '', id: KR4c0067_SBCK_034-1a03}
+  - {type: substitution, offset: 32, original: 朙, replacement: 明, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3743}}
+  - {type: variant, offset: 33, length: 1, content: 偉, SBCK: 􅊆}
+  - {type: 'kr:newline', offset: 42, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl4}
+  - {type: line-break, offset: 42, content: '', id: KR4c0067_SBCK_034-1a04}
+  - {type: substitution, offset: 43, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: substitution, offset: 59, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: variant, offset: 61, length: 0, content: '', WYG: 本傳}
+  - {type: 'kr:newline', offset: 62, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl5}
+  - {type: line-break, offset: 62, content: '', id: KR4c0067_SBCK_034-1a05}
+  - {type: variant, offset: 62, length: 0, content: '', WYG: 徳裕字}
+  - {type: variant, offset: 64, length: 0, content: '', WYG: 元和宰相吉甫子也少力于學既冠卓犖有大節不喜與諸生試有司以廕補校書郎河東張𢎞靖辟為掌書記府罷召拜監察御史穆宗即位擢翰林學士帝為太子時巳聞吉甫名由是顧徳裕厚凡號令大典冊皆更其手數召見賚奬優華帝怠荒于政故戚里多所請丐挾宦人詗禁中語闗託大臣徳裕建言舊制駙馬都尉與要官禁不往來開元中訶督尤切今乃公至宰相及大臣私第是等無他材直洩漏禁密交通中外耳請白事宰相者聴至中書無輒詣第然之再進中書舍人未㡬授御史中丞始吉甫相憲宗牛僧孺李宗閔對直言策痛指當路條失政吉甫訴于帝且泣有司皆得罪遂與為怨吉甫又為帝謀討兩河叛將李逢吉沮解其言功未既}
+  - {type: page-break, offset: 64, content: '', id: KR4c0067_WYG_035-1b, image: WYG1079/WYG1079-0334d.png}
+  - {type: variant, offset: 65, length: 4, content: 王楊燕許, WYG: 吉甫卒裴度實繼}
+  - {type: variant, offset: 70, length: 11, content: 後儒之可宗者文公韓退之, WYG: 逢吉以議不合罷去故追銜吉甫而怨度擯徳裕不得進至是間帝暗庸訹度使與元稹相怨奪其宰相}
+  - {type: 'kr:newline', offset: 82, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl6}
+  - {type: line-break, offset: 82, content: '', id: KR4c0067_SBCK_034-1a06}
+  - {type: variant, offset: 83, length: 0, content: '', WYG: 代之欲引僧孺益樹黨乃出徳裕為浙西觀察使俄而僧孺入相由是牛李之憾結矣初潤州承王國清亂竇易直傾府庫賚軍貲用空殫而下益驕徳裕自儉約以留州財贍兵雖儉而均}
+  - {type: page-break, offset: 83, content: '', id: KR4c0067_WYG_035-2a, image: WYG1079/WYG1079-0335a.png}
+  - {type: variant, offset: 84, length: 1, content: 世, WYG: 士無怨再期則賦物儲牣南方信禨巫雖父母癘疾子棄不敢養徳裕擇長老可語者諭以孝慈大倫患難相收不可棄}
+  - {type: variant, offset: 86, length: 3, content: 論衞公, WYG: 義使歸相曉勅違約}
+  - {type: substitution, offset: 87, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: variant, offset: 90, length: 1, content: 必, WYG: 顯寘}
+  - {type: variant, offset: 92, length: 12, content: 功烈言而鮮及於文章論文公, WYG: 法數年惡俗大變又按屬州非經祠}
+  - {type: 'kr:newline', offset: 102, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl7}
+  - {type: line-break, offset: 102, content: '', id: KR4c0067_SBCK_034-1a07}
+  - {type: variant, offset: 105, length: 19, content: 必以文章稱而或畧於功烈殊不知衞公之文章, WYG: 毀千餘所撤私邑山房千四百舍寇無所廋蔽天子下詔褒揚敬宗立侈用無度詔浙西上脂盝䊋具徳裕奏比年旱災物力未完乃三月壬子赦令}
+  - {type: page-break, offset: 105, content: '', id: KR4c0067_WYG_035-2b, image: WYG1079/WYG1079-0335b.png}
+  - {type: substitution, offset: 112, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1080}}
+  - {type: substitution, offset: 119, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 122, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl8}
+  - {type: line-break, offset: 122, content: '', id: KR4c0067_SBCK_034-1a08}
+  - {type: variant, offset: 125, length: 4, content: 出乎功烈, WYG: 貢}
+  - {type: variant, offset: 131, length: 3, content: 而文公, WYG: 悉罷進獻此陛下恐聚斂}
+  - {type: variant, offset: 135, length: 2, content: 功烈, WYG: 吏緣以成姦彫窶之人}
+  - {type: variant, offset: 138, length: 88, content: 在乎文章之下借令衞公當文公時則必以文章顯矣文公得衞公位則必以功烈著矣觀幽州紀聖功碑異域歸忠傳序㑹昌功烈非衞公孰能形容之文公論淮蔡之敗可立而待折王庭湊之兇熖而奪之氣胸中所藴固不止, WYG: 勝其敝也本道素號富饒更李錡薛苹皆𣙜酒}
+  - {type: 'kr:newline', offset: 142, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl9}
+  - {type: line-break, offset: 142, content: '', id: KR4c0067_SBCK_034-1a09}
+  - {type: substitution, offset: 146, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: variant, offset: 157, length: 1, content: 顯, SBCK: 􅂋}
+  - {type: 'kr:newline', offset: 162, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl10}
+  - {type: line-break, offset: 162, content: '', id: KR4c0067_SBCK_034-1a10}
+  - {type: substitution, offset: 162, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 182, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl11}
+  - {type: page-break, offset: 182, content: '', id: KR4c0067_SBCK_034-1b}
+  - {type: 'kr:newline', offset: 182, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl12}
+  - {type: line-break, offset: 182, content: '', id: KR4c0067_SBCK_034-1b01}
+  - {type: substitution, offset: 190, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 202, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl13}
+  - {type: line-break, offset: 202, content: '', id: KR4c0067_SBCK_034-1b02}
+  - {type: variant, offset: 213, length: 1, content: 兇, SBCK: 􅇯}
+  - {type: substitution, offset: 213, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0052}}
+  - {type: variant, offset: 219, length: 1, content: 胸, SBCK: 􅅐}
+  - {type: 'kr:newline', offset: 222, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl14}
+  - {type: line-break, offset: 222, content: '', id: KR4c0067_SBCK_034-1b03}
+  - {type: variant, offset: 227, length: 58, content: 文章也夫道之在天下操之則爲心盡之則爲性持之則爲志養之則爲氣存之則爲神是道也見之設施則爲功烈寓之言語則爲文章易地皆然豈, WYG: 民供}
+  - {type: substitution, offset: 239, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 242, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl15}
+  - {type: line-break, offset: 242, content: '', id: KR4c0067_SBCK_034-1b04}
+  - {type: substitution, offset: 244, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 249, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 254, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 259, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 262, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl16}
+  - {type: line-break, offset: 262, content: '', id: KR4c0067_SBCK_034-1b05}
+  - {type: substitution, offset: 269, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 277, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 282, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl17}
+  - {type: line-break, offset: 282, content: '', id: KR4c0067_SBCK_034-1b06}
+  - {type: variant, offset: 286, length: 5, content: 彼此之異㢤, WYG: 羡財}
+  - {type: substitution, offset: 290, original: 㢤, replacement: 哉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3148}}
+  - {type: variant, offset: 293, length: 0, content: '', WYG: 詔書停𣙜酤又赦令示諸州羡餘無送使今存者惟留使錢五}
+  - {type: variant, offset: 294, length: 7, content: 五年文公嘗爲袁, WYG: 萬緡率嵗經費常少十三萬軍用褊急今所須脂盝䊋具度用銀二萬三千兩金百三十兩物非土産雖力營索尚恐不逮願詔宰相議何以俾臣不違詔㫖不乏軍興不疲人不歛怨則前敕後詔咸可遵承不報方是時罷進獻不閲月而求貢使者足相接於道故徳裕推一以諷他又詔索盤絛繚綾千匹復奏言太宗時使至凉州見名鷹諷李大亮獻之大亮諫止賜詔嘉歎𤣥宗時使者抵江南捕鵁鶄翠鳥汴}
+  - {type: page-break, offset: 294, content: '', id: KR4c0067_WYG_035-3a, image: WYG1079/WYG1079-0335c.png}
+  - {type: substitution, offset: 299, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 300, length: 1, content: 袁, SBCK: 􅀽}
+  - {type: 'kr:newline', offset: 302, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl18}
+  - {type: line-break, offset: 302, content: '', id: KR4c0067_SBCK_034-1b07}
+  - {type: variant, offset: 304, length: 0, content: '', WYG: 倪若水言之即見褒納皇甫詢織半臂造琵琶捍撥鏤牙筩於益州蘇頲不奉詔帝不加罪夫鵁鶄鏤牙微物也二三臣尚以勞人損徳為言豈二祖有臣如此今獨無之葢有位者蔽而不聞非陛下拒不納也且立鵝天馬蹙豹盤絛文彩怪麗惟乗輿當御今廣用千匹臣所未喻昔漢文身衣弋綈元帝罷輕纎服故仁徳慈儉至今稱之願陛下師二祖容納逺思漢家恭約裁賜節減則海隅蒼生畢受賜矣優詔為停自元和後天下禁毋私度僧徐州王智興紿言天子誕月請築壇度人以資福詔可即顯募江淮間民皆曹輩奔走因牟擷其財以自入徳裕劾奏智興為壇泗州募願度者人輸錢二千則不復勘詰普加髠落自淮而右户三丁男必一男剔髮規影徭賦所度無算臣閲度江者日數百蘇常齊民十固八九若不加禁遏則前至誕月江淮失丁男六十萬不為細變有詔徐州禁止時帝昏荒數遊幸狎比羣小聴朝簡忽徳裕上丹扆六箴表言心乎愛矣遐不謂矣此古之賢人篤於事君者也夫迹疏而言親者危地逺而意忠者忤臣竊惟念拔自先聖徧荷寵私不能竭忠是負靈鑒臣在先朝嘗獻大明賦以諷頗䝉嘉採今日盡節明主亦由是也其一曰宵衣諷視朝希晩也二曰正服諷服御非法也三曰罷獻諷斂求怪珍也四曰納誨諷侮棄忠言也五曰辨邪諷任羣小也六曰防微諷偽遊輕出也辭皆明直婉切帝雖不能用其言猶勅韋處厚諄諄作詔厚謝其意然為逢吉排笮訖不内徙時亳州浮屠詭言水可愈疾聞南方之人率三十户僦一人使往汲既行若飲病者不敢近葷血危老之人率多死而水斗三十千取者益他汲轉鬻於道互相欺訹往者日數十百人徳裕嚴勒津邏捕絶之且言昔吳有聖水宋齊有聖火皆本妖祥古人所禁請下觀察使令狐楚填塞以絶妄源從之帝方惑佛老禱福祈年浮屠方士並出入禁中狂人杜景先上言其友周息元壽數百嵗帝遣宦者至浙西迎之詔在所馳驛敦遣徳裕上疏曰道之高者莫若廣成𤣥元人之聖者莫若軒轅孔子昔軒轅問廣成子治身之要曰無視無聴抱神以静形將自正無勞子形無揺子精乃可長生慎守其一以處其和故我修身千二百嵗矣形未嘗衰又曰得吾道者上為皇下為王𤣥語孔子曰去子之驕氣與多欲態色與淫志是皆無益於子之身陛下修軒后之術物色異人若使廣成𤣥元混迹而至告陛下之言亦無出於此臣慮今所得者皆迂怪之士使物淖氷以小術欺聰明如文成五利者也又前世天子雖好方士未有御其藥者故漢人稱黄金可成以為飲食器則壽高宗時劉道合𤣥宗時孫甑生皆能作黄金二祖不之服豈非以宗廟為重乎倘必致真隠願止師保和之術慎毌及藥則九廟慰悦矣息元果誕譎不情自言與張果葉静能遊帝詔畫工肖狀為圖以觀之終帝世無他驗文宗即位乃逐之}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-3b, image: WYG1079/WYG1079-0335d.png}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-4a, image: WYG1079/WYG1079-0336a.png}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-4b, image: WYG1079/WYG1079-0336b.png}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-5a, image: WYG1079/WYG1079-0336c.png}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-5b, image: WYG1079/WYG1079-0336d.png}
+  - {type: page-break, offset: 304, content: '', id: KR4c0067_WYG_035-6a, image: WYG1079/WYG1079-0337a.png}
+  - {type: variant, offset: 306, length: 1, content: 八, WYG: 三}
+  - {type: variant, offset: 308, length: 6, content: 衞公亦嘗爲袁, WYG: 詔拜兵部侍郎裴度薦材堪宰相而李宗閔以中人助先秉政且得君出徳裕為鄭滑節度使引僧孺協力罷度政事二怨相濟凡徳裕所善悉逐}
+  - {type: substitution, offset: 308, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: substitution, offset: 312, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 313, length: 1, content: 袁, SBCK: 􅀽}
+  - {type: variant, offset: 315, length: 0, content: '', WYG: 於是二人權震天下黨人牢不可破矣踰年徙劍南西川蜀自南詔入冦敗杜元穎而郭釗代之病不能事民失職無聊生徳裕至則完殘奮怯皆有條次成都既南失姚協西亡維松由清溪下沬水而左盡為蠻有始韋臯招來南詔復嶲州傾内資結蠻好示以戰陣文法徳裕以臯啓戎資盜其策非是養成癰疽第未決耳至元穎時遇隙而發故}
+  - {type: page-break, offset: 315, content: '', id: KR4c0067_WYG_035-6b, image: WYG1079/WYG1079-0337b.png}
+  - {type: variant, offset: 316, length: 3, content: 史文公, WYG: 驅深入蹂剔千里蕩無孑遺今瘢夷尚新非痛矯革不能刷一方恥乃建籌邊樓按南道山川險要與蠻相入者圖}
+  - {type: variant, offset: 320, length: 8, content: 去袁也崇廟貌以祀, WYG: 左西道與吐蕃接者圖}
+  - {type: variant, offset: 321, length: 1, content: 袁, SBCK: 􅀽}
+  - {type: 'kr:newline', offset: 322, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl19}
+  - {type: line-break, offset: 322, content: '', id: KR4c0067_SBCK_034-1b08}
+  - {type: variant, offset: 329, length: 5, content: 列豊碑以記, WYG: 右其部落衆寡饋運逺邇曲折咸具乃召習邊事者與}
+  - {type: substitution, offset: 330, original: 豊, replacement: 豐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3691}}
+  - {type: variant, offset: 335, length: 3, content: 其文集, WYG: 指畫商訂凡虜}
+  - {type: page-break, offset: 335, content: '', id: KR4c0067_WYG_035-7a, image: WYG1079/WYG1079-0337c.png}
+  - {type: variant, offset: 339, length: 3, content: 行於世, WYG: 情偽盡知之又料擇伏瘴舊獠與州兵之任戰者廢遣獰耄什三四士無敢怨}
+  - {type: 'kr:newline', offset: 342, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl20}
+  - {type: line-break, offset: 342, content: '', id: KR4c0067_SBCK_034-1b09}
+  - {type: variant, offset: 344, length: 2, content: 鋟木, WYG: 請甲人}
+  - {type: variant, offset: 347, length: 1, content: 郡, SBCK: 􅇿}
+  - {type: variant, offset: 347, length: 6, content: 郡庠至於衞公, WYG: 安定弓人河中弩人浙西由是蜀之器械皆犀鋭率戸二百取一人使習戰貸勿事緩}
+  - {type: substitution, offset: 351, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: variant, offset: 354, length: 16, content: 不然祠堂數椽地石刻数尺許蕭然岑壑, WYG: 農急則戰謂}
+  - {type: 'kr:newline', offset: 362, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl21}
+  - {type: line-break, offset: 362, content: '', id: KR4c0067_SBCK_034-1b10}
+  - {type: substitution, offset: 363, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1399}}
+  - {type: variant, offset: 371, length: 7, content: 上佛屋之側文之, WYG: 雄邊子弟其精兵曰南燕保義保惠兩河慕義左右連弩騎士曰飛星鷙擊竒鋒}
+  - {type: variant, offset: 379, length: 66, content: 傳者僅有十五賦其全集則未之見豈世之知衞公者一於功烈鮮及於文章歟紹興巳卯冬建安邵公来守是邦下車之初首訪韓李遺集而衞公文集獨未有表而出之, WYG: 電霆聲突騎總}
+  - {type: 'kr:newline', offset: 382, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl22}
+  - {type: page-break, offset: 382, content: '', id: KR4c0067_SBCK_034-2a}
+  - {type: 'kr:newline', offset: 382, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl23}
+  - {type: line-break, offset: 382, content: '', id: KR4c0067_SBCK_034-2a01}
+  - {type: substitution, offset: 397, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 402, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl24}
+  - {type: line-break, offset: 402, content: '', id: KR4c0067_SBCK_034-2a02}
+  - {type: variant, offset: 413, length: 1, content: 卯, SBCK: 􅆗}
+  - {type: 'kr:newline', offset: 417, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl25}
+  - {type: line-break, offset: 417, content: '', id: KR4c0067_SBCK_034-2a03}
+  - {type: substitution, offset: 419, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0323}}
+  - {type: variant, offset: 422, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: variant, offset: 427, length: 1, content: 首, SBCK: 􅈡}
+  - {type: substitution, offset: 434, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 437, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl26}
+  - {type: line-break, offset: 437, content: '', id: KR4c0067_SBCK_034-2a04}
+  - {type: 'kr:newline', offset: 445, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl27}
+  - {type: page-break, offset: 445, content: '', id: KR4c0067_SBCK_034-2b}
+  - {type: 'kr:newline', offset: 445, content: '
+
+      ', id: KR4c0067_krp_034-bkkkrnewl28}
+  back: []
+hash: sha256:6d4e09eae0e9932221e97f52708090e5d6e674e6e7c5e46c1d44635ba6c5a5ca
