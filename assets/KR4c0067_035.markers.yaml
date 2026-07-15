@@ -8,7 +8,9 @@ markers:
       ', id: KR4c0067_krp_035-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0067_SBCK_035-1a01}
   - {type: variant, offset: 0, length: 42, content: 李衞公集訂正明本錯簡六首据全唐文訂正文集卷十五請賜仲武詔第十葉前三行入覲之初下應接第, WYG: ''}
+  - {type: substitution, offset: 1, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 6, content: (, id: KR4c0067_krp_035-bkkpn1}
+  - {type: substitution, offset: 12, original: 据, replacement: 據, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17269}}
   - {type: punctuation, offset: 18, content: ), id: KR4c0067_krp_035-bkkpn2}
   - {type: 'kr:newline', offset: 18, content: '
 
@@ -38,11 +40,13 @@ markers:
 
       ', id: KR4c0067_krp_035-bkkkrnewl6}
   - {type: line-break, offset: 83, content: '', id: KR4c0067_SBCK_035-1a06}
+  - {type: substitution, offset: 92, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17638}}
   - {type: 'kr:newline', offset: 95, content: '
 
       ', id: KR4c0067_krp_035-bkkkrnewl7}
   - {type: line-break, offset: 95, content: '', id: KR4c0067_SBCK_035-1a07}
   - {type: variant, offset: 99, length: 64, content: 兼行營諸軍攻討使狀第十一葉後九行尙未安定茂下應接第十葉前三行茂元縱得痊復至末案明本衍一茂字外集卷三食貨論第九葉後三行壽昌習分誅之, WYG: 相須少間乃敢通郎官非公}
+  - {type: substitution, offset: 115, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
   - {type: 'kr:newline', offset: 122, content: '
 
       ', id: KR4c0067_krp_035-bkkkrnewl8}
@@ -67,6 +71,7 @@ markers:
 
       ', id: KR4c0067_krp_035-bkkkrnewl12}
   - {type: line-break, offset: 182, content: '', id: KR4c0067_SBCK_035-1a12}
+  - {type: substitution, offset: 192, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 211, content: '
 
       ', id: KR4c0067_krp_035-bkkkrnewl13}
@@ -79,8 +84,9 @@ markers:
 
       ', id: KR4c0067_krp_035-bkkkrnewl15}
   - {type: line-break, offset: 221, content: '', id: KR4c0067_SBCK_035-1b01}
+  - {type: substitution, offset: 222, original: 倖, replacement: 幸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16650}}
   - {type: 'kr:newline', offset: 249, content: '
 
       ', id: KR4c0067_krp_035-bkkkrnewl16}
   back: []
-hash: sha256:48ab9690ea87ade4d07eda7f76b7a07c25a5fbc53e3add21b056c596f61c6389
+hash: sha256:25d9c5ea2a04303785771dd1064d3acbffd582d30bfaa1c3918fa6e69cd45ae8
