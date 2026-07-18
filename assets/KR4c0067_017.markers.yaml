@@ -373,6 +373,7 @@ markers:
   - {type: line-break, offset: 988, content: '', id: KR4c0067_SBCK_017-4a05}
   - {type: indent, offset: 988, content: 　　　, id: KR4c0067_krp_017-bkkind26}
   - {type: punctuation, offset: 992, content: (, id: KR4c0067_krp_017-bkkpn1}
+  - {type: voice, offset: 992, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 996, content: ), id: KR4c0067_krp_017-bkkpn2}
   - {type: 'kr:newline', offset: 996, content: '
 
@@ -507,6 +508,7 @@ markers:
   - {type: substitution, offset: 1420, original: 廸, replacement: 迪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19995}}
   - {type: punctuation, offset: 1427, content: (, id: KR4c0067_krp_017-bkkpn3}
   - {type: variant, offset: 1427, length: 0, content: '', WYG: 請官軍}
+  - {type: voice, offset: 1427, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1430, content: /, id: KR4c0067_krp_017-bkkpn4}
   - {type: variant, offset: 1430, length: 3, content: 請官軍, WYG: 兵處}
   - {type: punctuation, offset: 1433, content: ), id: KR4c0067_krp_017-bkkpn5}
@@ -1552,4 +1554,4 @@ markers:
   - {type: page-break, offset: 4591, content: '', id: KR4c0067_WYG_017-16a, image: WYG1079/WYG1079-0224a.png}
   - {type: page-break, offset: 4591, content: '', id: KR4c0067_WYG_017-16b, image: WYG1079/WYG1079-0224b.png}
   back: []
-hash: sha256:ed862113a4e3e1996c85bf9edf5cb82c6fb04eed8b7dc1340dcd599c60bed5a3
+hash: sha256:703b2c3c956adcb8dbcdc4cfcd4459bc1a2408ace46d8992f59578046a158252

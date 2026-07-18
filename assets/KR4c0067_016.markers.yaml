@@ -193,6 +193,7 @@ markers:
   - {type: variant, offset: 362, length: 1, content: 遞, WYG: 逓}
   - {type: punctuation, offset: 367, content: (, id: KR4c0067_krp_016-bkkpn1}
   - {type: variant, offset: 367, length: 8, content: 三月一日㑹昌四年, WYG: ''}
+  - {type: voice, offset: 367, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 371, content: /, id: KR4c0067_krp_016-bkkpn2}
   - {type: substitution, offset: 371, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 375, content: ), id: KR4c0067_krp_016-bkkpn3}
@@ -203,6 +204,7 @@ markers:
   - {type: indent, offset: 375, content: 　　　, id: KR4c0067_krp_016-bkkind21}
   - {type: punctuation, offset: 383, content: (, id: KR4c0067_krp_016-bkkpn4}
   - {type: variant, offset: 383, length: 0, content: '', WYG: 緣楊言作亂而李}
+  - {type: voice, offset: 383, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 390, content: /, id: KR4c0067_krp_016-bkkpn5}
   - {type: variant, offset: 390, length: 7, content: 緣楊言作亂而李, WYG: ''}
   - {type: punctuation, offset: 397, content: ), id: KR4c0067_krp_016-bkkpn6}
@@ -234,6 +236,7 @@ markers:
   - {type: line-break, offset: 477, content: '', id: KR4c0067_SBCK_016-2b07}
   - {type: punctuation, offset: 477, content: (, id: KR4c0067_krp_016-bkkpn7}
   - {type: variant, offset: 477, length: 9, content: 月十四日㑹昌四年三, WYG: ''}
+  - {type: voice, offset: 477, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 481, content: /, id: KR4c0067_krp_016-bkkpn8}
   - {type: substitution, offset: 481, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 486, content: ), id: KR4c0067_krp_016-bkkpn9}
@@ -356,6 +359,7 @@ markers:
   - {type: line-break, offset: 891, content: '', id: KR4c0067_SBCK_016-3b09}
   - {type: punctuation, offset: 898, content: (, id: KR4c0067_krp_016-bkkpn10}
   - {type: variant, offset: 898, length: 8, content: 四月二日㑹昌四年, WYG: ''}
+  - {type: voice, offset: 898, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 902, content: /, id: KR4c0067_krp_016-bkkpn11}
   - {type: substitution, offset: 902, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 906, content: ), id: KR4c0067_krp_016-bkkpn12}
@@ -451,6 +455,7 @@ markers:
   - {type: line-break, offset: 1232, content: '', id: KR4c0067_SBCK_016-4b07}
   - {type: punctuation, offset: 1235, content: (, id: KR4c0067_krp_016-bkkpn13}
   - {type: variant, offset: 1235, length: 8, content: 四月五日㑹昌四年, WYG: ''}
+  - {type: voice, offset: 1235, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 1239, content: /, id: KR4c0067_krp_016-bkkpn14}
   - {type: substitution, offset: 1239, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1243, content: ), id: KR4c0067_krp_016-bkkpn15}
@@ -510,6 +515,7 @@ markers:
   - {type: variant, offset: 1415, length: 9, content: 閑六月四日㑹昌四年, WYG: 閒}
   - {type: substitution, offset: 1415, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 1416, content: (, id: KR4c0067_krp_016-bkkpn16}
+  - {type: voice, offset: 1416, length: 8, name: note, id: n6}
   - {type: punctuation, offset: 1420, content: /, id: KR4c0067_krp_016-bkkpn17}
   - {type: substitution, offset: 1420, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1424, content: ), id: KR4c0067_krp_016-bkkpn18}
@@ -823,6 +829,7 @@ markers:
   - {type: line-break, offset: 2199, content: '', id: KR4c0067_SBCK_016-7b06}
   - {type: punctuation, offset: 2201, content: (, id: KR4c0067_krp_016-bkkpn19}
   - {type: variant, offset: 2201, length: 9, content: 七月一日㑹昌四年閏, WYG: ''}
+  - {type: voice, offset: 2201, length: 9, name: note, id: n7}
   - {type: punctuation, offset: 2205, content: /, id: KR4c0067_krp_016-bkkpn20}
   - {type: substitution, offset: 2205, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2210, content: ), id: KR4c0067_krp_016-bkkpn21}
@@ -898,6 +905,7 @@ markers:
   - {type: line-break, offset: 2399, content: '', id: KR4c0067_SBCK_016-8a07}
   - {type: punctuation, offset: 2410, content: (, id: KR4c0067_krp_016-bkkpn22}
   - {type: variant, offset: 2410, length: 8, content: 九月三日㑹昌四年, WYG: ''}
+  - {type: voice, offset: 2410, length: 8, name: note, id: n8}
   - {type: punctuation, offset: 2414, content: /, id: KR4c0067_krp_016-bkkpn23}
   - {type: substitution, offset: 2414, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2418, content: ), id: KR4c0067_krp_016-bkkpn24}
@@ -947,6 +955,7 @@ markers:
   - {type: line-break, offset: 2523, content: '', id: KR4c0067_SBCK_016-8b04}
   - {type: punctuation, offset: 2540, content: (, id: KR4c0067_krp_016-bkkpn25}
   - {type: variant, offset: 2540, length: 9, content: 年九月㑹昌四日十八, WYG: ''}
+  - {type: voice, offset: 2540, length: 9, name: note, id: n9}
   - {type: punctuation, offset: 2543, content: /, id: KR4c0067_krp_016-bkkpn26}
   - {type: substitution, offset: 2543, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2546, content: ), id: KR4c0067_krp_016-bkkpn27}
@@ -1033,6 +1042,7 @@ markers:
   - {type: line-break, offset: 2742, content: '', id: KR4c0067_SBCK_016-9a08}
   - {type: punctuation, offset: 2742, content: (, id: KR4c0067_krp_016-bkkpn31}
   - {type: variant, offset: 2742, length: 10, content: 月二十七日㑹昌四年九, WYG: ''}
+  - {type: voice, offset: 2742, length: 10, name: note, id: n10}
   - {type: punctuation, offset: 2747, content: /, id: KR4c0067_krp_016-bkkpn32}
   - {type: substitution, offset: 2747, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2752, content: ), id: KR4c0067_krp_016-bkkpn33}
@@ -1075,6 +1085,7 @@ markers:
   - {type: line-break, offset: 2856, content: '', id: KR4c0067_SBCK_016-9b05}
   - {type: punctuation, offset: 2860, content: (, id: KR4c0067_krp_016-bkkpn34}
   - {type: variant, offset: 2860, length: 10, content: 月十七日􅊨㑹昌四年十, WYG: ''}
+  - {type: voice, offset: 2860, length: 10, name: note, id: n11}
   - {type: punctuation, offset: 2865, content: /, id: KR4c0067_krp_016-bkkpn35}
   - {type: substitution, offset: 2865, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 2870, content: ), id: KR4c0067_krp_016-bkkpn36}
@@ -1185,6 +1196,7 @@ markers:
   - {type: line-break, offset: 3216, content: '', id: KR4c0067_SBCK_016-10b04}
   - {type: punctuation, offset: 3224, content: (, id: KR4c0067_krp_016-bkkpn37}
   - {type: variant, offset: 3224, length: 10, content: 月二十三日㑹昌五年二, WYG: ''}
+  - {type: voice, offset: 3224, length: 10, name: note, id: n12}
   - {type: punctuation, offset: 3229, content: /, id: KR4c0067_krp_016-bkkpn38}
   - {type: substitution, offset: 3229, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 3234, content: ), id: KR4c0067_krp_016-bkkpn39}
@@ -1262,6 +1274,7 @@ markers:
   - {type: substitution, offset: 3464, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 3467, content: (, id: KR4c0067_krp_016-bkkpn40}
   - {type: variant, offset: 3467, length: 9, content: 月十一日㑹昌五年八, WYG: ''}
+  - {type: voice, offset: 3467, length: 9, name: note, id: n13}
   - {type: punctuation, offset: 3471, content: /, id: KR4c0067_krp_016-bkkpn41}
   - {type: substitution, offset: 3471, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 3476, content: ), id: KR4c0067_krp_016-bkkpn42}
@@ -1372,6 +1385,7 @@ markers:
   - {type: line-break, offset: 3787, content: '', id: KR4c0067_SBCK_016-12a04}
   - {type: punctuation, offset: 3794, content: (, id: KR4c0067_krp_016-bkkpn43}
   - {type: variant, offset: 3794, length: 9, content: 月十一日㑹昌六年正, WYG: ''}
+  - {type: voice, offset: 3794, length: 9, name: note, id: n14}
   - {type: punctuation, offset: 3798, content: /, id: KR4c0067_krp_016-bkkpn44}
   - {type: substitution, offset: 3798, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 3803, content: ), id: KR4c0067_krp_016-bkkpn45}
@@ -1440,6 +1454,7 @@ markers:
   - {type: punctuation, offset: 3970, content: (, id: KR4c0067_krp_016-bkkpn46}
   - {type: variant, offset: 3970, length: 0, content: '', WYG: 會}
   - {type: page-break, offset: 3970, content: '', id: KR4c0067_WYG_016-13b, image: WYG1079/WYG1079-0216b.png}
+  - {type: voice, offset: 3970, length: 10, name: note, id: n15}
   - {type: punctuation, offset: 3971, content: /, id: KR4c0067_krp_016-bkkpn47}
   - {type: variant, offset: 3971, length: 2, content: 㑹二, WYG: 一品集巻}
   - {type: substitution, offset: 3971, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -1460,4 +1475,4 @@ markers:
 
       ', id: KR4c0067_krp_016-bkkkrnewl258}
   back: []
-hash: sha256:2fffe6911d54c4aeb109a48700a5770d9641cd43a7ecb54949ac57cb5f520bb8
+hash: sha256:72523dfabf05dbf184f5bd58fb4675f1248513645649233202f3135429797b11

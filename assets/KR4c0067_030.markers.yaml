@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 8, content: 李文饒外集卷第一, WYG: ''}
   - {type: indent, offset: 8, content: 　, id: KR4c0067_krp_030-bkkind1}
   - {type: punctuation, offset: 11, content: (, id: KR4c0067_krp_030-bkkpn1}
+  - {type: voice, offset: 11, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 13, content: ), id: KR4c0067_krp_030-bkkpn2}
   - {type: 'kr:newline', offset: 13, content: '
 
@@ -121,6 +122,7 @@ markers:
   - {type: substitution, offset: 79, original: 羙, replacement: 美, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19367}}
   - {type: punctuation, offset: 82, content: (, id: KR4c0067_krp_030-bkkpn1}
   - {type: variant, offset: 82, length: 11, content: 孟子稱伯夷聖人之清者盖, WYG: 葢}
+  - {type: voice, offset: 82, length: 10, name: note, id: n1}
   - {type: variant, offset: 84, length: 1, content: 稱, SBCK: 􅁛}
   - {type: punctuation, offset: 87, content: /, id: KR4c0067_krp_030-bkkpn2}
   - {type: punctuation, offset: 92, content: ), id: KR4c0067_krp_030-bkkpn3}
@@ -520,6 +522,7 @@ markers:
   - {type: line-break, offset: 1040, content: '', id: KR4c0067_SBCK_030-4a07}
   - {type: punctuation, offset: 1040, content: (, id: KR4c0067_krp_030-bkkpn4}
   - {type: variant, offset: 1040, length: 18, content: 盎甘諸吕用事檀相王大尉本兵柄弗能王也, WYG: ''}
+  - {type: voice, offset: 1040, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 1049, content: /, id: KR4c0067_krp_030-bkkpn5}
   - {type: punctuation, offset: 1058, content: ), id: KR4c0067_krp_030-bkkpn6}
   - {type: variant, offset: 1063, length: 1, content: 涅, SBCK: 􅄺}
@@ -1402,6 +1405,7 @@ markers:
   - {type: variant, offset: 3145, length: 1, content: 庾, SBCK: 􅁃}
   - {type: punctuation, offset: 3147, content: (, id: KR4c0067_krp_030-bkkpn7}
   - {type: variant, offset: 3147, length: 18, content: 庚爲河南尹名犯廟諱字又非使所以不書山, WYG: ''}
+  - {type: voice, offset: 3147, length: 18, name: note, id: n3}
   - {type: substitution, offset: 3148, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 3156, content: /, id: KR4c0067_krp_030-bkkpn8}
   - {type: punctuation, offset: 3165, content: ), id: KR4c0067_krp_030-bkkpn9}
@@ -1618,4 +1622,4 @@ markers:
 
       ', id: KR4c0067_krp_030-bkkkrnewl224}
   back: []
-hash: sha256:57248aaa02315f849a95fb5fbdd7dcd814ca88c7b16c835d48e217c6e88e5002
+hash: sha256:95b360fbbb2b2c523728bd9ac9ce24203b510ef7407c63e3afadba7260d4f6b6

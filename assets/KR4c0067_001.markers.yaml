@@ -35,6 +35,7 @@ markers:
   - {type: variant, offset: 9, length: 21, content: 仁聖文武至神大孝皇帝眞容讃并序上尊號玉冊文, WYG: 㑹昌}
   - {type: substitution, offset: 19, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 22, content: (, id: KR4c0067_krp_001-bkkpn1}
+  - {type: voice, offset: 22, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 24, content: ), id: KR4c0067_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 24, content: '
 
@@ -43,6 +44,7 @@ markers:
   - {type: indent, offset: 24, content: 　　　, id: KR4c0067_krp_001-bkkind5}
   - {type: substitution, offset: 28, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 30, content: (, id: KR4c0067_krp_001-bkkpn3}
+  - {type: voice, offset: 30, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 32, content: /, id: KR4c0067_krp_001-bkkpn4}
   - {type: variant, offset: 32, length: 2, content: 㑹昌, WYG: ''}
   - {type: substitution, offset: 32, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
@@ -340,6 +342,7 @@ markers:
   - {type: substitution, offset: 883, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 885, content: (, id: KR4c0067_krp_001-bkkpn6}
   - {type: substitution, offset: 885, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: voice, offset: 885, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 889, content: ), id: KR4c0067_krp_001-bkkpn7}
   - {type: 'kr:newline', offset: 889, content: '
 
@@ -668,6 +671,7 @@ markers:
   - {type: line-break, offset: 1770, content: '', id: KR4c0067_SBCK_001-5b05}
   - {type: indent, offset: 1770, content: 　　　, id: KR4c0067_krp_001-bkkind9}
   - {type: punctuation, offset: 1783, content: (, id: KR4c0067_krp_001-bkkpn8}
+  - {type: voice, offset: 1783, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1785, content: ), id: KR4c0067_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 1785, content: '
 
@@ -891,4 +895,4 @@ markers:
       ', id: KR4c0067_krp_001-bkkkrnewl136}
   - {type: page-break, offset: 2317, content: '', id: KR4c0067_WYG_001-8b, image: WYG1079/WYG1079-0115d.png}
   back: []
-hash: sha256:04314ae99168a0de52572652698143471432f66e73f827079ae0e97d2e5a3541
+hash: sha256:367375f2b658c55851ad670ba210717e7286bb306b438ceb89f3241f9a6bd486

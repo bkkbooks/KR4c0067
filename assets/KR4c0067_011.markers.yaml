@@ -304,6 +304,7 @@ markers:
   - {type: line-break, offset: 695, content: '', id: KR4c0067_SBCK_011-3a09}
   - {type: punctuation, offset: 701, content: (, id: KR4c0067_krp_011-bkkpn1}
   - {type: variant, offset: 701, length: 2, content: 國字, WYG: ''}
+  - {type: voice, offset: 701, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 703, content: /, id: KR4c0067_krp_011-bkkpn2}
   - {type: punctuation, offset: 706, content: ), id: KR4c0067_krp_011-bkkpn3}
   - {type: variant, offset: 706, length: 0, content: '', WYG: 國字}
@@ -669,6 +670,7 @@ markers:
   - {type: line-break, offset: 1713, content: '', id: KR4c0067_SBCK_011-6a03}
   - {type: punctuation, offset: 1714, content: (, id: KR4c0067_krp_011-bkkpn4}
   - {type: variant, offset: 1714, length: 0, content: '', WYG: 太常卿等奏}
+  - {type: voice, offset: 1714, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1719, content: /, id: KR4c0067_krp_011-bkkpn5}
   - {type: variant, offset: 1719, length: 5, content: 太常卿等奏, WYG: ''}
   - {type: punctuation, offset: 1724, content: ), id: KR4c0067_krp_011-bkkpn6}
@@ -967,6 +969,7 @@ markers:
   - {type: punctuation, offset: 2578, content: (, id: KR4c0067_krp_011-bkkpn7}
   - {type: variant, offset: 2578, length: 1, content: 状, WYG: 狀}
   - {type: substitution, offset: 2578, original: 状, replacement: 狀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16551}}
+  - {type: voice, offset: 2578, length: 3, name: note, id: n3}
   - {type: variant, offset: 2580, length: 10, content: 岀李文饒文集巻第十一, WYG: 出}
   - {type: substitution, offset: 2580, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19478}}
   - {type: punctuation, offset: 2581, content: ), id: KR4c0067_krp_011-bkkpn8}
@@ -979,4 +982,4 @@ markers:
 
       ', id: KR4c0067_krp_011-bkkkrnewl168}
   back: []
-hash: sha256:e9d9f5abc44b96a3b9f87d31e5fe8abe64126175da66eec1d1d79726d269abea
+hash: sha256:cf6f35f3ca46acb1b80b6b66c2c9e2cdecfd1aec80ea92f27c819f6fb67daa9b

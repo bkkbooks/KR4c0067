@@ -18,6 +18,7 @@ markers:
   - {type: page-break, offset: 14, content: '', id: KR4c0067_WYG_005-1a, image: WYG1079/WYG1079-0133a.png}
   - {type: punctuation, offset: 17, content: (, id: KR4c0067_krp_005-bkkpn1}
   - {type: variant, offset: 17, length: 0, content: '', WYG: 詔敕凡有敕字者便行無敕字}
+  - {type: 'voice:problem', offset: 17, length: 0, id: KR4c0067_bkk_005-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 17}
   - {type: variant, offset: 21, length: 1, content: 添, SBCK: 􅄈}
   - {type: variant, offset: 22, length: 1, content: 奬, WYG: 奨}
   - {type: variant, offset: 23, length: 1, content: 餙, WYG: 飾}
@@ -33,6 +34,7 @@ markers:
       ', id: KR4c0067_krp_005-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0067_SBCK_005-1a03}
   - {type: indent, offset: 0, content: 　　, id: KR4c0067_krp_005-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0067_bkk_005-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 6, content: '
 
       ', id: KR4c0067_krp_005-bkkkrnewl2}
@@ -1433,4 +1435,4 @@ markers:
       ', id: KR4c0067_krp_005-bkkkrnewl218}
   - {type: page-break, offset: 3645, content: '', id: KR4c0067_WYG_005-12b, image: WYG1079/WYG1079-0139b.png}
   back: []
-hash: sha256:bac4038b58b772c683cb651c41bbc51d00bfd30762b7d0fe364a8abb6e08aab2
+hash: sha256:8473674140dd3793bc857f2f16a9632fbc4c1d974fb628fef003d3347202dc22

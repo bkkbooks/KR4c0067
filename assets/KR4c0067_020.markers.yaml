@@ -279,6 +279,7 @@ markers:
       ', id: KR4c0067_krp_020-bkkkrnewl51}
   - {type: line-break, offset: 764, content: '', id: KR4c0067_SBCK_020-3a08}
   - {type: punctuation, offset: 772, content: (, id: KR4c0067_krp_020-bkkpn1}
+  - {type: voice, offset: 772, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 774, content: ), id: KR4c0067_krp_020-bkkpn2}
   - {type: 'kr:newline', offset: 784, content: '
 
@@ -603,6 +604,7 @@ markers:
   - {type: line-break, offset: 1828, content: '', id: KR4c0067_SBCK_020-6a05}
   - {type: punctuation, offset: 1828, content: (, id: KR4c0067_krp_020-bkkpn3}
   - {type: variant, offset: 1828, length: 0, content: '', WYG: 古詞臣}
+  - {type: voice, offset: 1828, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1831, content: /, id: KR4c0067_krp_020-bkkpn4}
   - {type: variant, offset: 1831, length: 3, content: 古詞臣, WYG: ''}
   - {type: punctuation, offset: 1834, content: ), id: KR4c0067_krp_020-bkkpn5}
@@ -647,6 +649,7 @@ markers:
   - {type: punctuation, offset: 1945, content: (, id: KR4c0067_krp_020-bkkpn6}
   - {type: variant, offset: 1945, length: 5, content: 内樂破陣樂, WYG: ''}
   - {type: substitution, offset: 1945, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
+  - {type: voice, offset: 1945, length: 11, name: note, id: n3}
   - {type: substitution, offset: 1948, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: punctuation, offset: 1950, content: /, id: KR4c0067_krp_020-bkkpn7}
   - {type: punctuation, offset: 1956, content: ), id: KR4c0067_krp_020-bkkpn8}
@@ -675,6 +678,7 @@ markers:
   - {type: line-break, offset: 2007, content: '', id: KR4c0067_SBCK_020-6b05}
   - {type: punctuation, offset: 2013, content: (, id: KR4c0067_krp_020-bkkpn9}
   - {type: variant, offset: 2013, length: 0, content: '', WYG: 已上四句奉述北}
+  - {type: voice, offset: 2013, length: 14, name: note, id: n4}
   - {type: punctuation, offset: 2020, content: /, id: KR4c0067_krp_020-bkkpn10}
   - {type: variant, offset: 2020, length: 7, content: 已上四句奉述北, WYG: ''}
   - {type: punctuation, offset: 2027, content: ), id: KR4c0067_krp_020-bkkpn11}
@@ -713,4 +717,4 @@ markers:
 
       ', id: KR4c0067_krp_020-bkkkrnewl131}
   back: []
-hash: sha256:a539c41f80556716329da8a5c1719c7cc4a07d078cf58bac528fe05f4bd67705
+hash: sha256:1ce81b4552cf96de56c7469e177b1e49e2e258965274b8716d5f00bd4c9354da

@@ -10,6 +10,7 @@ markers:
   - {type: variant, offset: 0, length: 42, content: 李衞公集訂正明本錯簡六首据全唐文訂正文集卷十五請賜仲武詔第十葉前三行入覲之初下應接第, WYG: ''}
   - {type: substitution, offset: 1, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 6, content: (, id: KR4c0067_krp_035-bkkpn1}
+  - {type: voice, offset: 6, length: 12, name: note, id: n1}
   - {type: substitution, offset: 12, original: 据, replacement: 據, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17269}}
   - {type: punctuation, offset: 18, content: ), id: KR4c0067_krp_035-bkkpn2}
   - {type: 'kr:newline', offset: 18, content: '
@@ -52,6 +53,7 @@ markers:
       ', id: KR4c0067_krp_035-bkkkrnewl8}
   - {type: line-break, offset: 122, content: '', id: KR4c0067_SBCK_035-1a08}
   - {type: punctuation, offset: 137, content: (, id: KR4c0067_krp_035-bkkpn3}
+  - {type: voice, offset: 137, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 141, content: /, id: KR4c0067_krp_035-bkkpn4}
   - {type: punctuation, offset: 144, content: ), id: KR4c0067_krp_035-bkkpn5}
   - {type: 'kr:newline', offset: 144, content: '
@@ -89,4 +91,4 @@ markers:
 
       ', id: KR4c0067_krp_035-bkkkrnewl16}
   back: []
-hash: sha256:25d9c5ea2a04303785771dd1064d3acbffd582d30bfaa1c3918fa6e69cd45ae8
+hash: sha256:982f7910302abbb406527220097a7265ab4274c1fcd65a196a0d19ee22b1cb87

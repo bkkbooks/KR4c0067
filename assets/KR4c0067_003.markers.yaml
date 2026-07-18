@@ -403,6 +403,7 @@ markers:
   - {type: line-break, offset: 968, content: '', id: KR4c0067_SBCK_003-3b10}
   - {type: punctuation, offset: 970, content: (, id: KR4c0067_krp_003-bkkpn1}
   - {type: variant, offset: 970, length: 0, content: '', WYG: 一本作歙漢書陳}
+  - {type: voice, offset: 970, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 977, content: /, id: KR4c0067_krp_003-bkkpn2}
   - {type: variant, offset: 977, length: 7, content: 一本作翎漠世陳, WYG: ''}
   - {type: punctuation, offset: 984, content: ), id: KR4c0067_krp_003-bkkpn3}
@@ -1256,4 +1257,4 @@ markers:
       ', id: KR4c0067_krp_003-bkkkrnewl195}
   - {type: page-break, offset: 3238, content: '', id: KR4c0067_WYG_003-11b, image: WYG1079/WYG1079-0126d.png}
   back: []
-hash: sha256:3ef10c329850091a389aff87f65faf846563245c4f958b660cf81d35af5805bb
+hash: sha256:30a8a410b38258d007345edb35e65bc60bdf83e88e55565d1dae5b7546e4ad59
