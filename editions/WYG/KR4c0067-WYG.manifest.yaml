@@ -53,7 +53,7 @@ assets:
   - {seq: 33, filename: KR4c0067_033-WYG.yaml, hash: 'sha256:9869055fc0557d1b98707aff2a1b1e0513e0d16a16874dbd92c30d9a542c38e2'}
   - {seq: 34, filename: KR4c0067_034-WYG.yaml, hash: 'sha256:7068a4e7615f140ea738923531428306a14f8051ba4fdaf623f7bb85bb97dbe0'}
   - {seq: 35, filename: KR4c0067_035-WYG.yaml, hash: 'sha256:bf48050a0dc2067c251e60fd4fa6867c9e59f166ac53f198d2aef1bbdb5f340b'}
-  - {seq: 36, filename: KR4c0067_036-WYG.yaml, hash: 'sha256:efc2b1aa570b2c732c40d0f75253b65d13546c2c1cd985e5ea76a0ba52133c66'}
+  - {seq: 36, filename: KR4c0067_036-WYG.yaml, hash: 'sha256:22b312379493627b9548c4960ac2a05e2828593395adb78c580d2e7766206f11'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4c0067_000-WYG.markers.yaml, hash: 'sha256:20515b349d8e7438b326f5ddf95562080fa752668b6e88fe93ef434283cc90db'}
   - {seq: 1, role: markers, filename: assets/KR4c0067_001-WYG.markers.yaml, hash: 'sha256:22c0625c0b5957c1455326c9f561212d567412c3058589059a7bf44996e53eca'}
@@ -91,7 +91,7 @@ assets:
   - {seq: 33, role: markers, filename: assets/KR4c0067_033-WYG.markers.yaml, hash: 'sha256:60b5303ffe9581c11d821cc4e149a198877001ab31e2681b3ff2ebf9bf01e73d'}
   - {seq: 34, role: markers, filename: assets/KR4c0067_034-WYG.markers.yaml, hash: 'sha256:beea210c2cff2a5485e4c080362623543b800c96e6775339cb5861d12d31d0c2'}
   - {seq: 35, role: markers, filename: assets/KR4c0067_035-WYG.markers.yaml, hash: 'sha256:3446b6bd7a1f909cc5de0af626324d683024ac8958ab0076dc244f9414a1ec6c'}
-  - {seq: 36, role: markers, filename: assets/KR4c0067_036-WYG.markers.yaml, hash: 'sha256:1671ceeb4be09bda552dab12aedd59e8451801e801e70252cdd50158042eef88'}
+  - {seq: 36, role: markers, filename: assets/KR4c0067_036-WYG.markers.yaml, hash: 'sha256:7e5414f52b81cb576bac5afc13a57707dda74790c9a98b04b5be8d14407de851'}
 table_of_contents:
 - ref:
     seq: 0
@@ -458,9 +458,9 @@ table_of_contents:
     marker_id: KR4c0067_WYG_035-8b
     span:
     - body
-    - 0
-    - 5
+    - 4980
+    - 4985
   label: juan 036
   type: section
   level: 1
-hash: sha256:1e38c927d1e78b751eea2359af7f9af8c043c404ae7201afd67477163586b704
+hash: sha256:c090d72bc9ae9476da96b17a5838e47b5dd5992dc80979fc8ce2cba70be11279
